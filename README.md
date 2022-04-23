@@ -24,3 +24,4 @@ Evidences show that the demand and sale of ice cream and surfing service depend 
 # Conclusion.
 The similarity of the temperatures in the months of June and December in terms of mean and interquartile rage implies that temperature is suitable and sustainable for ice-cream business.  The mean temperatures in both months indicate a hotter temperature and this is an ideal temperature for a higher demand of cream and surfing. 
 
+The two additional quiries will be related to preciptation for the month of june and december. The codes will be similar to the temprature.
